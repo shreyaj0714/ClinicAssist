@@ -1,0 +1,45 @@
+{
+  "clinic_name": "CarePoint Demo Clinic",
+  "short_description": "A fictional sample clinic used to demonstrate an AI-powered enquiry assistant.",
+  "opening_hours": "Monday to Saturday, 9:00 AM to 6:00 PM. Closed on Sundays.",
+  "location": "Fictional demo location in Surat, Gujarat. No real clinic address is provided.",
+  "contact": "No real phone number or email is provided for this demo.",
+  "consultation_fee": "The sample general consultation fee is ₹500. This is fictional demonstration data.",
+  "appointment_process": "Visitors can submit a demo appointment request using the Appointment request tab. A submitted request is not a confirmed booking.",
+  "services": [
+    {
+      "name": "General consultation",
+      "description": "A sample listing for a general consultation with a qualified healthcare professional."
+    },
+    {
+      "name": "Routine health check-up",
+      "description": "A sample listing for a routine health check-up service."
+    },
+    {
+      "name": "Vaccination enquiry",
+      "description": "A sample service enquiry. Availability and eligibility must be confirmed with a qualified clinic professional."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What are the clinic opening hours?",
+      "answer": "The demo clinic is open Monday to Saturday, from 9:00 AM to 6:00 PM. It is closed on Sundays."
+    },
+    {
+      "question": "How much is a general consultation?",
+      "answer": "The fictional sample fee for a general consultation is ₹500. Please treat this as demonstration data only."
+    },
+    {
+      "question": "How can I request an appointment?",
+      "answer": "Open the Appointment request tab, enter fictional demo details, and submit the form. The form saves a local demo request; it does not contact a clinic or confirm a booking."
+    },
+    {
+      "question": "Where is the clinic located?",
+      "answer": "This is a fictional clinic used for a project demonstration. It does not have a real visiting address."
+    },
+    {
+      "question": "Can ClinicAssist diagnose a health problem?",
+      "answer": "No. ClinicAssist only handles general administrative enquiries. Please speak with a qualified healthcare professional about medical concerns."
+    }
+  ]
+}
